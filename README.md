@@ -1,4 +1,4 @@
-# Alex Morgan â€” Futuristic Cyberpunk Portfolio Website
+# Alex Morgan — Futuristic Cyberpunk Portfolio Website
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](https://opensource.org/licenses/MIT)
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -10,7 +10,7 @@ A state-of-the-art personal digital identity platform engineered for **Alex Morg
 
 ---
 
-## ðŸŒŸ Key Features
+## 🌟 Key Features
 
 - **Hero Experience**: Cycling typewriter title effect, 3D holographic avatar core, dynamic telemetry metrics, and animated status beacon.
 - **Interactive 3D Canvas**: 60 FPS particle constellation with mouse attraction physics, perspective cyber horizon grid, and Matrix digital rain Easter egg.
@@ -25,7 +25,7 @@ A state-of-the-art personal digital identity platform engineered for **Alex Morg
 
 ---
 
-## ðŸš€ Quick Start / How to Run
+## 🚀 Quick Start / How to Run
 
 No build tools, node_modules, or package managers required!
 
@@ -40,7 +40,7 @@ No build tools, node_modules, or package managers required!
 
 ---
 
-## ðŸŒ Deploy to GitHub Pages (Free Hosting)
+## 🌐 Deploy to GitHub Pages (Free Hosting)
 
 1. Push your repository to GitHub.
 2. In your GitHub repository, go to **Settings > Pages**.
@@ -50,5 +50,5 @@ No build tools, node_modules, or package managers required!
 
 ---
 
-## ðŸ“„ License
+## 📄 License
 This project is open source and available under the [MIT License](LICENSE).
